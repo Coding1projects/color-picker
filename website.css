@@ -1,0 +1,39 @@
+.bg-card{
+    background-image:url("https://res.cloudinary.com/hyderabads/image/upload/v1678182708/20190930130010__MG_6981-01-1_cw0soq.jpg");
+    background-size: cover;
+    height:100vh;
+}
+.navbar-image{
+    height: 35px;
+}
+
+.register{
+    background-color: darkgray;
+    height: fit-content;
+    width: fit-content;
+    color: black;
+}
+.main-paragraph{
+    color: black;
+    font-size: 15px;
+    font-family:sans-serif;
+}
+.main-heading{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+}
+.register_center{
+    text-align: center;
+    color: brown;
+}
+.boxes{
+    color: black;
+    background-color: cyan;
+    margin: 3;
+
+}
+input{
+    color: darkmagenta;
+}
